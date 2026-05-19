@@ -5,7 +5,7 @@ Egresada de la Tecnicatura en Programación – UTN.<br>
 ---
 ## 🌐 Socials  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-laura-moyano-580494339/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mar%C3%ADa-laura-moyano-580494339/](https://ar.linkedin.com/in/maria-laura-moyano))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=google-chrome&logoColor=white)](https://lauzari.github.io/Laura-Moyano/)
 
